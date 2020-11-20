@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shey-Cherng Tzou | Michael Chen&#39;s Page</title>
+    <link>https://michaelchen25.github.io/author/shey-cherng-tzou/</link>
+      <atom:link href="https://michaelchen25.github.io/author/shey-cherng-tzou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shey-Cherng Tzou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michaelchen25.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shey-Cherng Tzou</title>
+      <link>https://michaelchen25.github.io/author/shey-cherng-tzou/</link>
+    </image>
+    
+    <item>
+      <title>Development of an inflammatory tissue-selective chimeric TNF receptor</title>
+      <link>https://michaelchen25.github.io/publication/lee-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://michaelchen25.github.io/publication/lee-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity of PEGylated interferon detection by anti-polyethylene glycol (PEG) antibodies depends on PEG length.</title>
+      <link>https://michaelchen25.github.io/publication/cheng-2013/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://michaelchen25.github.io/publication/cheng-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

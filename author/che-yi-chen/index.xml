@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Che-Yi Chen | Michael Chen&#39;s Page</title>
+    <link>https://michaelchen25.github.io/author/che-yi-chen/</link>
+      <atom:link href="https://michaelchen25.github.io/author/che-yi-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Che-Yi Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michaelchen25.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Che-Yi Chen</title>
+      <link>https://michaelchen25.github.io/author/che-yi-chen/</link>
+    </image>
+    
+    <item>
+      <title>Simply Mixing Poly Protein G with Detection Antibodies Enhances the Detection Limit and Sensitivity of Immunoassays.</title>
+      <link>https://michaelchen25.github.io/publication/chen-2019-io/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://michaelchen25.github.io/publication/chen-2019-io/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

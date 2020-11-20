@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://michaelchen25.github.io/sitemap.xml

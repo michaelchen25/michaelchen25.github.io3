@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuan-Chin Hsieh | Michael Chen&#39;s Page</title>
+    <link>https://michaelchen25.github.io/author/yuan-chin-hsieh/</link>
+      <atom:link href="https://michaelchen25.github.io/author/yuan-chin-hsieh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuan-Chin Hsieh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michaelchen25.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuan-Chin Hsieh</title>
+      <link>https://michaelchen25.github.io/author/yuan-chin-hsieh/</link>
+    </image>
+    
+    <item>
+      <title>Development of a highly sensitive enzyme-linked immunosorbent assay (ELISA) through use of poly-protein G-expressing cell-based microplates</title>
+      <link>https://michaelchen25.github.io/publication/chen-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://michaelchen25.github.io/publication/chen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poly-protein G-expressing bacteria enhance the sensitivity of immunoassays</title>
+      <link>https://michaelchen25.github.io/publication/hao-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://michaelchen25.github.io/publication/hao-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
